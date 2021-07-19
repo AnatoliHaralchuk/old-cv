@@ -1,4 +1,5 @@
 ## Anatoli Haralchuk
+![it's me](me.jpg)
 ___
 * *My name is Anatoli. I am from Brest. I stadied in Brest State Technical Univercity to be a engineer. I am working as a project manager. I would like to develop as a developer, because this work have got interest, dynamics and develop*
 ___
