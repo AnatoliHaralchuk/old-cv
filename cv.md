@@ -12,7 +12,7 @@ developer from JavaScript:
 ___
 * Level English - Pre-Intermediate 
 ___
-#### 228028, Brest,Brestskaya,Belarus
+#### 224028, Brest,Brestskaya,Belarus
 #### Grodnenskaya 42/21
 #### tel. +375292224017
 #### email: sShades@mail.ru
