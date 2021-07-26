@@ -24,3 +24,8 @@
     padding: 5px;
     color: rgb(7, 165, 165);  
 }
+.down{
+    margin: auto;
+    padding: 0;
+    text-align: right;
+}
